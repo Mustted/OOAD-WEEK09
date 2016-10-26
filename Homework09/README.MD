@@ -16,9 +16,8 @@ Car -- Person : < owns
 <img src="https://github.com/Mustted/OOAD-WEEK09/blob/master/Homework09/Class1.png?raw=true">
 
 ----------------------------------------------------------------
-
-    Class 2
-    Code
+   Class 2
+   Code
 ```
 @startuml
 Computer <|-- Mainboard
@@ -33,8 +32,8 @@ Mainboard : Ram()
 
 ----------------------------------------------------------------
 
-    Class 3
-    Code
+   Class 3
+   Code
 ```
 @startuml
 
@@ -52,8 +51,8 @@ hide Object2
 
 ----------------------------------------------------------------
 
-    Class 4
-    Code
+   Class 4
+   Code
 ```
 @startuml
 
@@ -68,8 +67,8 @@ Object *- Project
 
 ----------------------------------------------------------------
 
-    Class 5
-    Code
+   Class 5
+   Code
 ```
 @startuml
 Room o- Teacher
